@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Joseph Agboeze👋
 
-<!--
-**Joseph-Agboeze/Joseph-Agboeze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+__“I’m a data analyst. I excel in gathering, processing, and analyzing data to derive actionable insights.”__
 
-Here are some ideas to get you started:
+## Skills
+- 💕 Microsoft Excel
+- 💕 MySQL
+- 💕 Python
+- 💕 Power Bi
+- 💕 Tableau
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## **👨‍💻Open to work on any data related jobs** 
+- Data Cleansing
+- Data Visualization
+- Project Management
+  
+## Connect with me
+[!LinkedIn](https://www.linkedin.com/in/josephagboeze/)
+
